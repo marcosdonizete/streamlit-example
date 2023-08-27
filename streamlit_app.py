@@ -6,7 +6,7 @@ import streamlit as st
 
 """
 # Welcome to Streamlit!
-# Aprendendo a usar!
+## Aprendendo a usar!
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
